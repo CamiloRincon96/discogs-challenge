@@ -75,7 +75,7 @@ The project includes tests that verify:
 - Security and authentication
 - Data persistence
 
-##Run all reports only (Checkstyle, SpotBugs, Jacoco):
+## Run all reports only (Checkstyle, SpotBugs, Jacoco):
 
 ```bash
 ./gradlew allReports
