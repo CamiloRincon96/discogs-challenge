@@ -1,7 +1,7 @@
 # Discogs Challenge API
 
 ## Description
-A REST API that interacts with the Discogs API to search for and compare musical artists, allowing for the storage and comparison of their discographies.
+A REST API that interacts with the Discogs API to search for and compare musical artists, allowing for the storage and comparison of their discographies. A challenge for Clara.
 
 ## Requirements
 - **Docker** and **Docker Compose**
