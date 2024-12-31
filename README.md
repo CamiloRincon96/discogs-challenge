@@ -75,6 +75,12 @@ The project includes tests that verify:
 - Security and authentication
 - Data persistence
 
+##Run all reports only (Checkstyle, SpotBugs, Jacoco):
+
+```bash
+./gradlew allReports
+```
+
 ## Project Structure
 The project follows a **hexagonal architecture** (ports and adapters) to maintain a clear separation of responsibilities and facilitate testing.
 
